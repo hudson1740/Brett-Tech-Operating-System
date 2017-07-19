@@ -1,0 +1,23 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\bin\Debug\Operating System.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\bin\Debug\Operating System.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\bin\Debug\Operating System.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\bin\Debug\Operating System.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating System.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating_System.Boot.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating_System.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating System.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating System.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating System.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating System.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating_System.start_menu.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating_System.support.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\bin\Debug\Operating System.exe.manifest
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\bin\Debug\Operating System.application
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating System.TrustInfo.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating System.exe.manifest
+c:\users\administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating System.application
+C:\Users\Administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating_System.Login.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating_System.Power_Options.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating_System.BTN.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating_System.Login_Wait.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\Operating System\Operating System\obj\Debug\Operating_System.Browser.resources
